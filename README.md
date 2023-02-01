@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Fall 2022
 
-+ Projec title: Exploratory Data Analysis of Philosophical Texts
++ Projec title: A Tale of Two Futures: A Comparison of Communist vs. Capitalist Philosophers
 + This project is conducted by Ananya Tinaikar 
 
 
