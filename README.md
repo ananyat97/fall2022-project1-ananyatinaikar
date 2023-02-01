@@ -2,7 +2,7 @@
 ## Fall 2022
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/CapCom.jpeg" width="500">
+<img src="figs/CapCom.png" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
